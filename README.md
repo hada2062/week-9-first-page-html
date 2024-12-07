@@ -1,3 +1,4 @@
+
 <html>
  <head>
  </head>
@@ -28,10 +29,7 @@
     
     </head>
     <body>
-    
-    </body>
-    </html>
-    <!DOCTYPE html>
+   <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -65,8 +63,6 @@
 
 </body>
 </html>
-
-    <img border="0" src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lost_an_electron_joke.png" alt="Electron Joke" height="200" align="left" width="250" />
     <a href="http://www.eynesbury.edu.au/">Eynesbury College</a>
     <a href="http://www.jkrowling.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lost_an_electron_joke.png" border="0" align="left" /></a>
     <p>"HTML" (2008, December 3). In <em>Wikipedia, the free encyclopedia.</em> Retrieved December 3, 2008, from http://en.wikipedia.org/wiki/HTML</p>
@@ -292,3 +288,4 @@
 
 </body>
 </html>
+
